@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Always an amateur
+image: "/img/faraz.jpg"
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name's Faraz Khan. I was born and raised in Karachi, Pakistan and moved to California in 2011. I was one of the cofounders of [Screenhero](http://www.screenhero.com) which was a ultra low latency screen sharing tool for mac and windows. An acquisition by Slack allowed us to bring you Calls inside Slack.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Last year I decided that I'm done with web/mobile apps and decided to jump into what ive wanted to do since I was a child: make robots! The fusion of computers with anything electro-mechanical fascinates me. I took udacity's self driving car nano-degree and by the end of it I knew that I was made for this stuff. 
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I've realized that I can only build stuff thats instantly useful and solves a big enough painpoint for myself and others around me. This is why I need to take the pain of highway stopngo traffic away for good. 
